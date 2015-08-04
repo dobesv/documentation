@@ -29,7 +29,7 @@ Some hosts may have limits on the number of emails that can sent during a specif
  
 ### Email Fields
 
-You have access to any number of lead fields to be used in your form emails. These can be easily placed within your emails and will be automatically replaced with the appropriate text once the email is sent.
+You have access to any number of lead fields to be used in your form emails. These can be easily placed within your emails and will be automatically replaced with the appropriate text once the email is sent.  To insert a field into an email template, type `{lead` and it should open a "hint menu" suggesting the fields available for selection.  Click one of these to insert the field.
 
 ### Tracking Opened Emails ###
 
